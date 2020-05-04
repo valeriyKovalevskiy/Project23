@@ -9,25 +9,45 @@
 /* Begin PBXBuildFile section */
 		78BF982B245FFDAC00CB116F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BF982A245FFDAC00CB116F /* AppDelegate.swift */; };
 		78BF982D245FFDAC00CB116F /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 78BF982C245FFDAC00CB116F /* GameScene.sks */; };
-		78BF982F245FFDAC00CB116F /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 78BF982E245FFDAC00CB116F /* Actions.sks */; };
 		78BF9831245FFDAC00CB116F /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BF9830245FFDAC00CB116F /* GameScene.swift */; };
 		78BF9833245FFDAC00CB116F /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78BF9832245FFDAC00CB116F /* GameViewController.swift */; };
 		78BF9836245FFDAC00CB116F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78BF9834245FFDAC00CB116F /* Main.storyboard */; };
 		78BF9838245FFDB000CB116F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78BF9837245FFDB000CB116F /* Assets.xcassets */; };
 		78BF983B245FFDB000CB116F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78BF9839245FFDB000CB116F /* LaunchScreen.storyboard */; };
+		78BF984D2460010400CB116F /* explosion.caf in Resources */ = {isa = PBXBuildFile; fileRef = 78BF98422460010200CB116F /* explosion.caf */; };
+		78BF984E2460010400CB116F /* whack.caf in Resources */ = {isa = PBXBuildFile; fileRef = 78BF98432460010300CB116F /* whack.caf */; };
+		78BF984F2460010400CB116F /* sliceFuse.sks in Resources */ = {isa = PBXBuildFile; fileRef = 78BF98442460010300CB116F /* sliceFuse.sks */; };
+		78BF98502460010400CB116F /* swoosh2.caf in Resources */ = {isa = PBXBuildFile; fileRef = 78BF98452460010300CB116F /* swoosh2.caf */; };
+		78BF98512460010400CB116F /* sliceHitBomb.sks in Resources */ = {isa = PBXBuildFile; fileRef = 78BF98462460010300CB116F /* sliceHitBomb.sks */; };
+		78BF98522460010400CB116F /* launch.caf in Resources */ = {isa = PBXBuildFile; fileRef = 78BF98472460010300CB116F /* launch.caf */; };
+		78BF98532460010400CB116F /* sliceHitEnemy.sks in Resources */ = {isa = PBXBuildFile; fileRef = 78BF98482460010300CB116F /* sliceHitEnemy.sks */; };
+		78BF98542460010400CB116F /* sliceBombFuse.caf in Resources */ = {isa = PBXBuildFile; fileRef = 78BF98492460010300CB116F /* sliceBombFuse.caf */; };
+		78BF98552460010400CB116F /* swoosh3.caf in Resources */ = {isa = PBXBuildFile; fileRef = 78BF984A2460010300CB116F /* swoosh3.caf */; };
+		78BF98562460010400CB116F /* wrong.caf in Resources */ = {isa = PBXBuildFile; fileRef = 78BF984B2460010400CB116F /* wrong.caf */; };
+		78BF98572460010400CB116F /* swoosh1.caf in Resources */ = {isa = PBXBuildFile; fileRef = 78BF984C2460010400CB116F /* swoosh1.caf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		78BF9827245FFDAC00CB116F /* Project23.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project23.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78BF982A245FFDAC00CB116F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		78BF982C245FFDAC00CB116F /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		78BF982E245FFDAC00CB116F /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		78BF9830245FFDAC00CB116F /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		78BF9832245FFDAC00CB116F /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		78BF9835245FFDAC00CB116F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		78BF9837245FFDB000CB116F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		78BF983A245FFDB000CB116F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		78BF983C245FFDB000CB116F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		78BF98422460010200CB116F /* explosion.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = explosion.caf; sourceTree = "<group>"; };
+		78BF98432460010300CB116F /* whack.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whack.caf; sourceTree = "<group>"; };
+		78BF98442460010300CB116F /* sliceFuse.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceFuse.sks; sourceTree = "<group>"; };
+		78BF98452460010300CB116F /* swoosh2.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh2.caf; sourceTree = "<group>"; };
+		78BF98462460010300CB116F /* sliceHitBomb.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceHitBomb.sks; sourceTree = "<group>"; };
+		78BF98472460010300CB116F /* launch.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = launch.caf; sourceTree = "<group>"; };
+		78BF98482460010300CB116F /* sliceHitEnemy.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceHitEnemy.sks; sourceTree = "<group>"; };
+		78BF98492460010300CB116F /* sliceBombFuse.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sliceBombFuse.caf; sourceTree = "<group>"; };
+		78BF984A2460010300CB116F /* swoosh3.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh3.caf; sourceTree = "<group>"; };
+		78BF984B2460010400CB116F /* wrong.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = wrong.caf; sourceTree = "<group>"; };
+		78BF984C2460010400CB116F /* swoosh1.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh1.caf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,13 +82,23 @@
 			children = (
 				78BF982A245FFDAC00CB116F /* AppDelegate.swift */,
 				78BF982C245FFDAC00CB116F /* GameScene.sks */,
-				78BF982E245FFDAC00CB116F /* Actions.sks */,
 				78BF9830245FFDAC00CB116F /* GameScene.swift */,
 				78BF9832245FFDAC00CB116F /* GameViewController.swift */,
 				78BF9834245FFDAC00CB116F /* Main.storyboard */,
 				78BF9837245FFDB000CB116F /* Assets.xcassets */,
 				78BF9839245FFDB000CB116F /* LaunchScreen.storyboard */,
 				78BF983C245FFDB000CB116F /* Info.plist */,
+				78BF98422460010200CB116F /* explosion.caf */,
+				78BF98472460010300CB116F /* launch.caf */,
+				78BF98492460010300CB116F /* sliceBombFuse.caf */,
+				78BF98442460010300CB116F /* sliceFuse.sks */,
+				78BF98462460010300CB116F /* sliceHitBomb.sks */,
+				78BF98482460010300CB116F /* sliceHitEnemy.sks */,
+				78BF984C2460010400CB116F /* swoosh1.caf */,
+				78BF98452460010300CB116F /* swoosh2.caf */,
+				78BF984A2460010300CB116F /* swoosh3.caf */,
+				78BF98432460010300CB116F /* whack.caf */,
+				78BF984B2460010400CB116F /* wrong.caf */,
 			);
 			path = Project23;
 			sourceTree = "<group>";
@@ -131,11 +161,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78BF98562460010400CB116F /* wrong.caf in Resources */,
+				78BF98542460010400CB116F /* sliceBombFuse.caf in Resources */,
+				78BF98512460010400CB116F /* sliceHitBomb.sks in Resources */,
+				78BF98522460010400CB116F /* launch.caf in Resources */,
+				78BF98502460010400CB116F /* swoosh2.caf in Resources */,
 				78BF9836245FFDAC00CB116F /* Main.storyboard in Resources */,
 				78BF982D245FFDAC00CB116F /* GameScene.sks in Resources */,
+				78BF984D2460010400CB116F /* explosion.caf in Resources */,
 				78BF9838245FFDB000CB116F /* Assets.xcassets in Resources */,
 				78BF983B245FFDB000CB116F /* LaunchScreen.storyboard in Resources */,
-				78BF982F245FFDAC00CB116F /* Actions.sks in Resources */,
+				78BF98532460010400CB116F /* sliceHitEnemy.sks in Resources */,
+				78BF98572460010400CB116F /* swoosh1.caf in Resources */,
+				78BF98552460010400CB116F /* swoosh3.caf in Resources */,
+				78BF984F2460010400CB116F /* sliceFuse.sks in Resources */,
+				78BF984E2460010400CB116F /* whack.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,7 +342,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = v.kovalevskiy.Project23;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -320,7 +360,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = v.kovalevskiy.Project23;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
